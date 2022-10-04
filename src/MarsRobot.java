@@ -1,2 +1,2 @@
-public class MarsRobot {
+class MarsRobot {
 }
